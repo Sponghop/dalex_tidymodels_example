@@ -1,0 +1,6 @@
+source("scripts/load_packages.R")
+source("scripts/custom_functions.R")
+source("scripts/recipes.R")
+source("scripts/model_DecisionTree.R")
+source("scripts/model_RandomForest.R")
+source("scripts/model_Xgboost.R")
